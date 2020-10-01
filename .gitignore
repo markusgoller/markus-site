@@ -1,0 +1,20 @@
+# Editor
+.vscode
+
+# Environment
+.env
+
+# Pelican
+## Build Folder
+output
+
+# Python
+__pycache__
+*.pyc 
+
+# Webpack
+node_modules
+dist
+*.gz
+main.css
+main.js
