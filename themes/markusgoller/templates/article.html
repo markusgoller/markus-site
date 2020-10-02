@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title }}{% endblock %}
+
+{% block head %}
+    {{ super() }}
+
+    <link href="{{ SITEURL }}/{{ article.url }}" rel="canonical" />
+    {% for keyword in article.keywords %}
+        <meta name="keywords" content="{{keyword}}" >
+    {% endfor %}
+
+    {% if description %}
+        <meta name="description" content="{{ description }}">
+    {% elif article.headline %}
+        <meta name="description" content="{{ article.headline }}">
+    {% elif article.summary %}
+        <meta name="description" content="{{ article.summary|striptags|truncate(140) }}">
+    {% endif %}
+
+    {% for author in article.authors %}
+        <meta name="author" content="{{ author }}">
+    {% endfor %}
+
+    {% for tag in article.tags %}
+        <meta name="tags" content="{{tag}}">
+    {% endfor %}
+{% endblock head %}
+
+{% block content %}
+
+<h1>
+  {{ article.title }}
+</h1>
+
+<img src="{{ article.mainimage }}" alt="{{ article.mainimagetitle }}" class="rounded shadow-2xl mb-3 w-full">
+
+<div class="content">
+  {{ article.content }}
+</div>
+
+{% endblock content %}
