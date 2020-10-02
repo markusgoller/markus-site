@@ -31,5 +31,19 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+
+# path-specific metadata
+EXTRA_PATH_METADATA = {
+    'static/robots.txt': {'path': 'robots.txt'},
+    'static/CNAME': {'path': 'CNAME'},
+    'static/.nojekyll': {'path': '.nojekyll'},
+    }
+
+# Static files
+STATIC_PATHS = [
+    'static',
+    ]
+
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
