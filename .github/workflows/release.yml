@@ -2,7 +2,7 @@ name: release on GH-Pages
 
 on:
   push:
-    branches: [ deployment-on-gh-pages ]
+    branches: [ master ]
 
 jobs:
   gh-pages:
@@ -27,7 +27,7 @@ jobs:
       
 
       - name: Build Pelican Page for Production 
-        run: cd webroot && make html
+        run: invoke publish
       
 
       - name: Deploy on GH-Pages
@@ -35,3 +35,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
+
+      - name: Clean up output directory
+        run: invoke delete-unused-template-files
