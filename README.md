@@ -17,3 +17,9 @@ pelican-quickstart
 pelican content
 ```
 --> These generates the output-folder.
+
+
+### Preview your site on http://localhost:8000/ 
+```
+pelican --listen
+```
