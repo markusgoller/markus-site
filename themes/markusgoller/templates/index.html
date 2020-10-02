@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  {% for bp in articles %}
+    <div class="mt-6 md:mt-10">
+      <a href="{{ bp.url }}">{{ bp.url }}</a>
+    </div>   
+  {% endfor %}
+      
+{% endblock content %}    
