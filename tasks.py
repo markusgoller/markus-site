@@ -101,6 +101,12 @@ def livereload(c):
 
 
 @task
+def delete_unused_template_files(c):
+    """A function to delete unnecessary template files"""
+    c.run('find ./output -type f -name "*.html" -size  0 -print -delete')
+    c.run("find ./output -type d -empty -print -delete")
+
+@task
 def publish(c):
     """Build with production settings"""
     c.run('pelican -s {settings_publish}'.format(**CONFIG))
