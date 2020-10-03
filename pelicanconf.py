@@ -8,10 +8,10 @@ SITEURL = ''
 
 
 # Template
-#THEME = 'themes/markusgoller'
-#THEME_STATIC_DIR = 'theme'
-#THEME_STATIC_PATHS = ['static']
-#CSS_FILE = 'main.css'
+THEME = 'themes/markusgoller'
+THEME_STATIC_DIR = 'theme'
+THEME_STATIC_PATHS = ['static']
+CSS_FILE = 'main.css'
 
 PATH = 'content'
 
