@@ -10,7 +10,7 @@ pelican-quickstart
 
 ### Make one test markdown site
 
-* content/keyboard-review.md)
+* content/test.md)
 
 
 ```
