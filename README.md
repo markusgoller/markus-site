@@ -1,4 +1,4 @@
-# Rebuild static_blog
+# Rebuild of static_blog
 
 ## Following these steps
 https://docs.getpelican.com/en/stable/quickstart.html
