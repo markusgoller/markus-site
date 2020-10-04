@@ -14,7 +14,7 @@ Some elements may make sense others are more for personal amusement ;-).
 ![Photo]({attach}images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
 
 ## Photo
-![Photo](/images/IMG_20200709_191035_resize.jpg)
+![Photo](images/IMG_20200709_191035_resize.jpg)
 
 ## Link to Ambasat
 Photo by [AmbaSAT-1](https://ambasat.com/)
