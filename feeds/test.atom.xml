@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog - Test</title><link href="https://markusgoller.at/" rel="alternate"></link><link href="https://markusgoller.at/feeds/test.atom.xml" rel="self"></link><id>https://markusgoller.at/</id><updated>2020-10-02T20:00:00+02:00</updated><entry><title>Test</title><link href="https://markusgoller.at/test.html" rel="alternate"></link><published>2020-10-02T20:00:00+02:00</published><updated>2020-10-02T20:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markusgoller.at,2020-10-02:/test.html</id><summary type="html">&lt;h1&gt;Tests&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog - Test</title><link href="https://markusgoller.at/" rel="alternate"></link><link href="https://markusgoller.at/feeds/test.atom.xml" rel="self"></link><id>https://markusgoller.at/</id><updated>2020-10-06T23:30:00+02:00</updated><entry><title>Test</title><link href="https://markusgoller.at/test.html" rel="alternate"></link><published>2020-10-06T23:30:00+02:00</published><updated>2020-10-06T23:30:00+02:00</updated><author><name>Markus</name></author><id>tag:markusgoller.at,2020-10-06:/test.html</id><summary type="html">&lt;h1&gt;Tests&lt;/h1&gt;
 &lt;p&gt;Here are a few elements that I would like to test for the future blog.
 Some elements may make sense others are more for personal amusement ;-).&lt;/p&gt;
 &lt;h2&gt;Screenshot&lt;/h2&gt;
@@ -12,7 +12,7 @@ Some elements may make sense others are more for personal amusement ;-).&lt;/p&g
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-9EHdp1ynUU"&gt;&lt;img alt="Minions Banana Song Full Song" src="http://img.youtube.com/vi/-9EHdp1ynUU/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Code Snippets&lt;/h1&gt;
 &lt;p&gt;Random example. &lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
+&lt;div class="python highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
 
 &lt;span class="c1"&gt;#  Import some frameworks&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;datetime …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Tests&lt;/h1&gt;
@@ -28,7 +28,7 @@ Some elements may make sense others are more for personal amusement ;-).&lt;/p&g
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-9EHdp1ynUU"&gt;&lt;img alt="Minions Banana Song Full Song" src="http://img.youtube.com/vi/-9EHdp1ynUU/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Code Snippets&lt;/h1&gt;
 &lt;p&gt;Random example. &lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
+&lt;div class="python highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
 
 &lt;span class="c1"&gt;#  Import some frameworks&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;datetime&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;datetime&lt;/span&gt;
@@ -37,7 +37,6 @@ Some elements may make sense others are more for personal amusement ;-).&lt;/p&g
 &lt;span class="c1"&gt;# Comment&lt;/span&gt;
 &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Very interesting&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
 
 &lt;h1&gt;What I basically needed for this project&lt;/h1&gt;
 &lt;ul&gt;
