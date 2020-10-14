@@ -2,7 +2,7 @@ name: release on GH-Pages
 
 on:
   push:
-    branches: [add_favicon ]
+    branches: [ add_favicon ]
 
 jobs:
   gh-pages:
