@@ -12,7 +12,7 @@ Some elements may make sense others are more for personal amusement ;-).&lt;/p&g
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-9EHdp1ynUU"&gt;&lt;img alt="Minions Banana Song Full Song" src="http://img.youtube.com/vi/-9EHdp1ynUU/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Code Snippets&lt;/h1&gt;
 &lt;p&gt;Random example. &lt;/p&gt;
-&lt;div class="python highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
 
 &lt;span class="c1"&gt;#  Import some frameworks&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;datetime …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Tests&lt;/h1&gt;
@@ -28,7 +28,7 @@ Some elements may make sense others are more for personal amusement ;-).&lt;/p&g
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-9EHdp1ynUU"&gt;&lt;img alt="Minions Banana Song Full Song" src="http://img.youtube.com/vi/-9EHdp1ynUU/0.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Code Snippets&lt;/h1&gt;
 &lt;p&gt;Random example. &lt;/p&gt;
-&lt;div class="python highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
 
 &lt;span class="c1"&gt;#  Import some frameworks&lt;/span&gt;
 &lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;datetime&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;datetime&lt;/span&gt;
