@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://markusgoller.at/" rel="alternate"></link><link href="https://markusgoller.at/feeds/all.atom.xml" rel="self"></link><id>https://markusgoller.at/</id><updated>2020-10-10T19:15:00+02:00</updated><entry><title>Test</title><link href="https://markusgoller.at/test.html" rel="alternate"></link><published>2020-10-10T19:15:00+02:00</published><updated>2020-10-10T19:15:00+02:00</updated><author><name>Markus</name></author><id>tag:markusgoller.at,2020-10-10:/test.html</id><summary type="html">&lt;h1&gt;Tests&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://markus-site.at/" rel="alternate"></link><link href="https://markus-site.at/feeds/all.atom.xml" rel="self"></link><id>https://markus-site.at/</id><updated>2020-10-10T19:15:00+02:00</updated><entry><title>Test</title><link href="https://markus-site.at/test.html" rel="alternate"></link><published>2020-10-10T19:15:00+02:00</published><updated>2020-10-10T19:15:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-10-10:/test.html</id><summary type="html">&lt;h1&gt;Tests&lt;/h1&gt;
 &lt;p&gt;Here are a few elements that I would like to test for the future blog.
 Some elements may make sense others are more for personal amusement ;-).&lt;/p&gt;
 &lt;h2&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Photo" src="https://markusgoller.at/images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="https://markus-site.at/images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png"&gt;&lt;/p&gt;
 &lt;h2&gt;Photo&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="Photo" src="images/IMG_20200709_191035_resize.jpg"&gt;&lt;/p&gt;
 &lt;h2&gt;Link to Ambasat&lt;/h2&gt;
@@ -19,7 +19,7 @@ Some elements may make sense others are more for personal amusement ;-).&lt;/p&g
 &lt;p&gt;Here are a few elements that I would like to test for the future blog.
 Some elements may make sense others are more for personal amusement ;-).&lt;/p&gt;
 &lt;h2&gt;Screenshot&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Photo" src="https://markusgoller.at/images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Photo" src="https://markus-site.at/images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png"&gt;&lt;/p&gt;
 &lt;h2&gt;Photo&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="Photo" src="images/IMG_20200709_191035_resize.jpg"&gt;&lt;/p&gt;
 &lt;h2&gt;Link to Ambasat&lt;/h2&gt;
